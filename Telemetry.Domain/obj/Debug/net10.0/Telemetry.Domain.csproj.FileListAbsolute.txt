@@ -1,0 +1,12 @@
+C:\Users\Junior\source\repos\Telemetry\Telemetry.Domain\bin\Debug\net10.0\Telemetry.Domain.deps.json
+C:\Users\Junior\source\repos\Telemetry\Telemetry.Domain\bin\Debug\net10.0\Telemetry.Domain.dll
+C:\Users\Junior\source\repos\Telemetry\Telemetry.Domain\bin\Debug\net10.0\Telemetry.Domain.pdb
+C:\Users\Junior\source\repos\Telemetry\Telemetry.Domain\obj\Debug\net10.0\Telemetry.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\source\repos\Telemetry\Telemetry.Domain\obj\Debug\net10.0\Telemetry.Domain.AssemblyInfoInputs.cache
+C:\Users\Junior\source\repos\Telemetry\Telemetry.Domain\obj\Debug\net10.0\Telemetry.Domain.AssemblyInfo.cs
+C:\Users\Junior\source\repos\Telemetry\Telemetry.Domain\obj\Debug\net10.0\Telemetry.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\Telemetry\Telemetry.Domain\obj\Debug\net10.0\Telemetry.Domain.sourcelink.json
+C:\Users\Junior\source\repos\Telemetry\Telemetry.Domain\obj\Debug\net10.0\Telemetry.Domain.dll
+C:\Users\Junior\source\repos\Telemetry\Telemetry.Domain\obj\Debug\net10.0\refint\Telemetry.Domain.dll
+C:\Users\Junior\source\repos\Telemetry\Telemetry.Domain\obj\Debug\net10.0\Telemetry.Domain.pdb
+C:\Users\Junior\source\repos\Telemetry\Telemetry.Domain\obj\Debug\net10.0\ref\Telemetry.Domain.dll
