@@ -1,3 +1,4 @@
+# Telemetry API
 
 API desenvolvida em ASP.NET Core para coleta, armazenamento e consulta de dados de telemetria.
 
